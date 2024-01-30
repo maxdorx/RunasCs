@@ -3,7 +3,7 @@
 ----
 
 *RunasCs* is an utility to run specific processes with different permissions than the user's current logon provides using explicit credentials.
-This tool is an improved and open version of windows builtin *runas.exe* that solves some limitations:
+This tool is an improved  open version of windows builtin *runas.exe* that solves some limitations:
 
 * Allows explicit credentials
 * Works both if spawned from interactive process and from service process
